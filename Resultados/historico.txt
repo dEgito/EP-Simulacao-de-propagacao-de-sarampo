@@ -1,0 +1,72 @@
+TESTE 1:
+
+Epidemia encerrada na 54ª iteração.
+Última iteração:
+Saudáveis: 0.0%
+Infectados: 0.0%
+Recuperados: 100.0%
+
+R₀ = β/γ = 3.20
+Pico de infectados: 46.0% na 14ª iteração
+Taxa de ataque final: 100.0% da população
+Total de infecções ao longo da epidemia: 99.8% da população
+Indivíduos únicos infectados: 99.8% da população
+
+Análise paramétrica — Sarampo (γ fixo = 0.125):
+     β      R₀  Pico I (%)  Ataque final (%)
+  0.05    0.40        18.8              89.2
+  0.10    0.80        35.8              99.8
+  0.15    1.20        43.0             100.0
+  0.20    1.60        46.2             100.0
+  0.30    2.40        52.2             100.0
+  0.40    3.20        58.8             100.0
+  0.50    4.00        64.5             100.0
+
+
+TESTE 2:
+Epidemia encerrada na 65ª iteração.
+Última iteração:
+Saudáveis: 0.0%
+Infectados: 0.0%
+Recuperados: 100.0%
+
+R₀ = β/γ = 3.20
+Pico de infectados: 44.5% na 14ª iteração
+Taxa de ataque final: 100.0% da população
+Total de infecções ao longo da epidemia: 99.8% da população
+Indivíduos únicos infectados: 99.8% da população
+
+Análise paramétrica — Sarampo (γ fixo = 0.125):
+     β      R₀  Pico I (%)  Ataque final (%)
+  0.05    0.40        15.5              93.0
+  0.10    0.80        29.0              99.0
+  0.15    1.20        44.2             100.0
+  0.20    1.60        48.8             100.0
+  0.30    2.40        52.8             100.0
+  0.40    3.20        58.8             100.0
+  0.50    4.00        64.0             100.0
+
+
+TESTE 3:
+
+Epidemia encerrada na 58ª iteração.
+Última iteração:
+Saudáveis: 0.0%
+Infectados: 0.0%
+Recuperados: 100.0%
+
+R₀ = β/γ = 3.20
+Pico de infectados: 51.0% na 12ª iteração
+Taxa de ataque final: 100.0% da população
+Total de infecções ao longo da epidemia: 99.8% da população
+Indivíduos únicos infectados: 99.8% da população
+
+Análise paramétrica — Sarampo (γ fixo = 0.125):
+     β      R₀  Pico I (%)  Ataque final (%)
+  0.05    0.40         0.0               0.2
+  0.10    0.80        37.5              98.8
+  0.15    1.20        40.2             100.0
+  0.20    1.60        50.5             100.0
+  0.30    2.40        54.8             100.0
+  0.40    3.20        61.0             100.0
+  0.50    4.00        60.2             100.0
